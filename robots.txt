@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://espacogema.com.br/sitemap.xml

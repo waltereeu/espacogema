@@ -12,3 +12,6 @@
 /* Símbolo original vazado: preservar proporção e transparência em todas as telas. */
 .gem-frame{overflow:visible;min-width:0}
 .gem-frame img{display:block;width:100%;max-width:100%;height:auto;max-height:none;object-fit:contain;object-position:center;mix-blend-mode:normal}
+
+/* Endereço e localização */
+.location{max-width:580px;margin:52px auto 0;padding:30px 18px 0;border-top:1px solid rgba(243,236,227,.26);text-align:center}.location-label{color:#d4b383;font-size:11px;font-weight:600;letter-spacing:.25em;margin:0 0 17px}.location address{font-style:normal;font-size:14px;line-height:1.9;color:#f3ece3}.location-link{display:inline-block;margin-top:17px;color:#e3c69d;border-bottom:1px solid #b8945f;padding-bottom:6px;font-size:13px}.location-link:hover{color:white}.footer-address{font-family:'DM Sans',Arial,sans-serif;font-size:12px;font-style:normal;color:#bca8a3;margin:-48px 0 54px;line-height:1.8}@media(max-width:760px){.location{margin-top:40px}.footer-address{margin:-48px 0 48px;padding:0 8px}}
